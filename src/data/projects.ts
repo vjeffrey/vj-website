@@ -20,7 +20,7 @@ export const projects: Project[] = [
     description:
       "I developed this frogger-like game for my Udacity Front-End Web Development Nanodegree. The project demonstrates JavaScript programming skills, object-oriented programming concepts, and HTML5 Canvas for game rendering.",
     links: {
-      live: "http://vjeffrey.github.io/udacity-nanodegree-project-three/",
+      live: "https://vjeffrey.github.io/udacity-fe-nanodegree-project-three/",
       code: "https://github.com/vjeffrey/udacity-nanodegree-project-three/",
     },
   },
