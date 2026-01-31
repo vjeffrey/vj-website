@@ -15,14 +15,24 @@ export default function About() {
               for building great products and developing high-performing teams.
             </p>
             <p className="mb-4">
-              My technical expertise spans JavaScript, Ruby, and Golang. I have
-              presented at multiple conferences on topics like InSpec and cloud
-              SDK integrations.
+              I started my career in tech in 2014 by taking a Frontend Development program from Udacity.
+              I joined Chef Software (now owned by Progress) in 2015 as a junior level engineer and
+              found my home working on InSpec and other security related software while at Chef, where I also 
+              transitioned from working primarily on frontend code to working primarily in Golang.
             </p>
             <p>
-              I began my software engineering career at Chef Software in June
-              2015, where I grew from SDE I to Engineering Manager, eventually
-              leading two teams with 10 direct reports.
+              At Chef Software I learned how to code, how to organize projects and deliverables, and
+              how to be a people manager. By the end of my time there, I was leading two teams with 10 direct reports, 
+              responsible for the feature execution for the primary SAAS offering for the company.
+              When the company was acquired by Progress in fall 2020, I left to take a small break and find a new opportunity.
+            </p>
+            <p>
+              I began working at Mondoo as an engineer in early 2021 as one of the first employees (it was the 
+              three co-counders, me, and one other engineer). Here my role has been hybrid engineer and manager; I manage
+              other engineering managers, plan the work for the team with help
+              from the other managers and input from the founders, product/ux, and sales/cs, and am also responsible for completing
+              key OKRs like developing a pipeline and product metrics site to analyze usage across the platform and implementing a 
+              workload identity friendly OIDC solution for Mondoo. 
             </p>
           </div>
 
@@ -31,15 +41,21 @@ export default function About() {
             <p className="mb-4">
               Before entering tech, I worked as a legal secretary in NYC, an
               office manager in Montreal, an English teacher in La Paz, Bolivia,
-              and even a preschool teacher!
+              and a preschool teacher in Phoenix, Arizona!
             </p>
             <p className="mb-4">
-              I hold a degree in Linguistics with a focus on Ancient Greek. I am
-              fluent in English, Spanish, and French.
+              I hold a degree in Linguistics with a minor in Ancient Greek. I am
+              fluent in English, Spanish (learned while living abroad), and French (technically my first language, thought I do not speak often anymore).
             </p>
             <p>
               Based in Denver, CO, I enjoy exploring the outdoors and continuing
-              to learn new technologies and leadership practices.
+              to learn new technologies and leadership practices. I also have a high-school aged kid
+              who keeps me busy and on my toes.
+            </p>
+            <p className="mb-4">
+              I love to travel and spend days wandering around beautiful cities with no plan at all. My favorites
+              so far are Marrakesh, Reykjavik, and Montreal. I dream of spending time on my favourite relaxing island, Jamaica,
+              and hope to return one day to Saint-Louis, Senegal, where I spent six months studying while in university.
             </p>
           </div>
         </div>

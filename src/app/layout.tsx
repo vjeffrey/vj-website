@@ -15,12 +15,13 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-  title: "Victoria D. Jeffrey | Senior Staff Software Engineering Manager",
+  title: "Victoria D. Jeffrey | Senior Staff Engineering Manager",
   description:
     "Portfolio of Victoria D. Jeffrey - Senior Staff Software Engineering Manager",
   keywords: [
     "software engineer",
     "engineering manager",
+    "senior staff manager",
     "portfolio",
     "Golang",
   ],

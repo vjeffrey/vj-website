@@ -38,9 +38,9 @@ export default function Footer() {
 
             {/* Fun Fact */}
             <div className="md:text-right">
-              <h3 className="text-lg font-bold uppercase mb-4">Fun Fact</h3>
+              {/* <h3 className="text-lg font-bold uppercase mb-4">Fun Fact</h3> */}
               <p>
-                I speak English, Spanish, and French fluently!
+                
               </p>
             </div>
           </div>

@@ -1,7 +1,7 @@
 export const SITE_CONFIG = {
   name: "Victoria D. Jeffrey",
   nickname: "vj",
-  title: "Staff Software Engineering Manager",
+  title: "Senior Staff Engineering Manager",
   location: "Denver, CO",
   github: "vjeffrey",
   linkedin: "victoriadjeffrey",
